@@ -1,0 +1,43 @@
+tmp
+snap*
+*.env
+env
+config.yml
+
+**/*.part
+**/.*.sw*
+**/.DS_*
+**/.DocumentRev*
+**/.Spotlight*
+**/.[tT]emp*
+**/.[tT]mp*
+**/.[tT]rash*
+**/.fs*
+**/cache
+*.bak*
+*.log
+*.sw*
+*._*
+tmp
+
+# python and unix files
+
+*.py[cod]
+*.rpy[cod]
+*.ytdl
+.Python
+.Xauth*
+.ipynb_checkpoints
+.vscode
+__pycache__/
+generated
+pyvenv.cfg
+# Application Files
+*Auto-Save
+Adobe*Previews
+
+# whatever remains spoken elsewhere
+src
+bin/
+lib/
+lib64
