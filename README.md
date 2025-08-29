@@ -8,7 +8,6 @@
   at nihil adeo necesse est ante hominum oculos proponere ut certas quasdam res,
   quas esse neque demonstrari neque probari potest, quae contra eo ipso,
   quod pii diligentesque viri illas quasi ut entia tractant,
-  enti nascendique facultati paululum appropinquant.
-
-  Albert II
+  enti nascendique facultati paululum appropinquant. ..
+~ Albert II
 
