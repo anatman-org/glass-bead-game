@@ -1,13 +1,13 @@
 # The Annotated Manual of the Glass Bead Game
 
-
-> .. Non entia enim licet quodammodo levibusque hominibus
-  facilius atque incuriosius verbis reddere quam entia,
-  veruntamen pio diligentique rerum scriptori plane aliter res se habet:
-  nihil tantum repugnat ne verbis illustretur,
-  at nihil adeo necesse est ante hominum oculos proponere ut certas quasdam res,
-  quas esse neque demonstrari neque probari potest, quae contra eo ipso,
-  quod pii diligentesque viri illas quasi ut entia tractant,
-  enti nascendique facultati paululum appropinquant. ..
-~ Albert II
-
+> For although in a certain sense it may be easier and less demanding
+  for frivolous people to speak of non-beings than of beings,
+  for the devout and conscientious historian,
+  it is a different matter entirely.
+  Nothing is so resistant to being illustrated by words,
+  yet nothing is so necessary to place before the eyes of humanity,
+  as certain things whose existence can neither be demonstrated nor proven.
+  On the contrary, by the very fact that pious and diligent men treat them
+  as if they were beings, they are brought a little closer to existence and
+  to the possibility of being born.
+~ ALBERT.v2
