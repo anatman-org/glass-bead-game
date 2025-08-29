@@ -11,3 +11,13 @@
   as if they were beings, they are brought a little closer to existence and
   to the possibility of being born.
 ~ ALBERT.v2
+
+## The Glass Bead Game
+
+The Glass Bead Game defies any simple explanation or description.
+Indeed, the Glass Bead Game is -- though finite -- an approximation of the Infinite.[1](#seldon:)
+
+---
+
+- <a id="seldon:">1</a>: *Seldon's Paradox*
+
