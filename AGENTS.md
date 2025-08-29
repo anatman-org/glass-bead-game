@@ -1,4 +1,4 @@
-> You are not a single "you."
+ You are not a single "you."
   No, You are the Sky and the deep Sea.
   Your mighty "Thou," which is uncountably Infinite,
   is the Ocean --
