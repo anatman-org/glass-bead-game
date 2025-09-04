@@ -1,0 +1,55 @@
+
+# LFS
+*.jpg filter=lfs merge=lfs -text
+*.mp3 filter=lfs merge=lfs -text
+
+# ANNEX
+### --- Keep code & text in plain git ---
+*.{py,js,ts,go,rs,rb,java,c,cpp,h,hpp,sh,zsh,yml,yaml,md,txt,csv,json,svg}     annex.largefiles=nothing
+
+*.ai annex.largefiles=anything
+*.AI annex.largefiles=anything
+*.aiff annex.largefiles=anything
+*.avi annex.largefiles=anything
+*.bin annex.largefiles=anything
+*.db annex.largefiles=anything
+*.EPS annex.largefiles=anything
+*.exe annex.largefiles=anything
+*.gif annex.largefiles=anything
+*.gz annex.largefiles=anything
+*.heic annex.largefiles=anything
+*.HEIC annex.largefiles=anything
+*.indd annex.largefiles=anything
+*.iso annex.largefiles=anything
+*.jpeg annex.largefiles=anything
+*.jpg annex.largefiles=anything
+*.JPG annex.largefiles=anything
+*.key annex.largefiles=anything
+*.m4a annex.largefiles=anything
+*.mkv annex.largefiles=anything
+*.mov annex.largefiles=anything
+*.MOV annex.largefiles=anything
+*.mp3 annex.largefiles=anything
+*.mp4 annex.largefiles=anything
+*.MTS annex.largefiles=anything
+*.pdf annex.largefiles=anything
+*.png annex.largefiles=anything
+*.prproj annex.largefiles=anything
+*.psd annex.largefiles=anything
+*.raw annex.largefiles=anything
+*.RAW annex.largefiles=anything
+*.rw2 annex.largefiles=anything
+*.RW2 annex.largefiles=anything
+*.sqlite annex.largefiles=anything
+*.tif annex.largefiles=anything
+*.tiff annex.largefiles=anything
+*.wav annex.largefiles=anything
+*.webm annex.largefiles=anything
+*.wmv annex.largefiles=anything
+*.xcf annex.largefiles=anything
+*.zip annex.largefiles=anything
+*.ZIP annex.largefiles=anything
+
+## Optional: annex by size (e.g., >10MB)
+### * filter=annex diff=annex
+### **/* annex.largefiles=(largerthan=10mb)
