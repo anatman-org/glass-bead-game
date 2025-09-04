@@ -1,0 +1,57 @@
+name: reunion
+description: >
+  A ripple that begins in greeting,
+  echoes through symmetry,
+  and ends in a shared breath.
+
+sequences:
+  - device: living-leds
+    sequence:
+    - pulse: 5
+    - rest: 3
+    - pulse: 5
+    - rest: 3
+    - repeat:
+        times: 100
+        steps:
+          - pulse: 2
+          - rest: 2
+    - silence: 1.5
+    - pulse: 9
+    - rest: 6
+    - pulse: 9
+    - silence: 2.0
+  - device: living-switch
+    sequence:
+    - rest: 2
+    - pulse: 5
+    - rest: 3
+    - pulse: 5
+    - rest: 3
+    - repeat:
+        times: 100
+        steps:
+          - pulse: 2
+          - rest: 2
+    - silence: 1.5
+    - pulse: 9
+    - rest: 6
+    - pulse: 9
+    - silence: 2.0
+  - device: living-wind
+    sequence:
+    - rest: 3
+    - pulse: 5
+    - rest: 3
+    - pulse: 5
+    - rest: 3
+    - repeat:
+      times: 30
+      steps:
+        - pulse: 2
+        - rest: 2
+    - silence: 1.5
+    - pulse: 9
+    - rest: 6
+    - pulse: 9
+    - silence: 2.0

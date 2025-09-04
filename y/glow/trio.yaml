@@ -1,0 +1,30 @@
+name: trio
+description: A three-lamp conversation of rhythm and rest.
+
+sequences:
+  - device: aria-lamp:0
+    sequence:
+      - pulse: 0.3
+      - rest: 0.2
+      - pulse: 0.5
+      - silence: 1.0
+
+  - device: desk-lamp
+    sequence:
+      - rest: 0.4
+      - pulse: 0.6
+      - rest: 0.2
+      - pulse: 0.4
+      - silence: 0.8
+
+  - device: enso-lamp
+    sequence:
+      - pulse: 0.2
+      - rest: 0.2
+      - repeat:
+          times: 2
+          steps:
+            - pulse: 0.3
+            - rest: 0.1
+      - silence: 1.2
+

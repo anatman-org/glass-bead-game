@@ -1,0 +1,448 @@
+- yi: y00
+  int_val: 0
+  binary: 0x000000
+  octal: 0o00
+  wen_num: 2
+  unicode: ䷁
+  lines:  [False, False, False, False, False, False]
+- yi: y01
+  int_val: 1
+  binary: 0x000001
+  octal: 0o01
+  wen_num: 24
+  unicode: ䷗
+  lines:  [True, False, False, False, False, False]
+- yi: y02
+  int_val: 2
+  binary: 0x000010
+  octal: 0o02
+  wen_num: 7
+  unicode: ䷆
+  lines:  [False, True, False, False, False, False]
+- yi: y03
+  int_val: 3
+  binary: 0x000011
+  octal: 0o03
+  wen_num: 19
+  unicode: ䷒
+  lines:  [True, True, False, False, False, False]
+- yi: y04
+  int_val: 4
+  binary: 0x000100
+  octal: 0o04
+  wen_num: 15
+  unicode: ䷎
+  lines:  [False, False, True, False, False, False]
+- yi: y05
+  int_val: 5
+  binary: 0x000101
+  octal: 0o05
+  wen_num: 36
+  unicode: ䷣
+  lines:  [True, False, True, False, False, False]
+- yi: y06
+  int_val: 6
+  binary: 0x000110
+  octal: 0o06
+  wen_num: 46
+  unicode: ䷭
+  lines:  [False, True, True, False, False, False]
+- yi: y07
+  int_val: 7
+  binary: 0x000111
+  octal: 0o07
+  wen_num: 11
+  unicode: ䷊
+  lines:  [True, True, True, False, False, False]
+- yi: y10
+  int_val: 8
+  binary: 0x001000
+  octal: 0o10
+  wen_num: 16
+  unicode: ䷏
+  lines:  [False, False, False, True, False, False]
+- yi: y11
+  int_val: 9
+  binary: 0x001001
+  octal: 0o11
+  wen_num: 51
+  unicode: ䷲
+  lines:  [True, False, False, True, False, False]
+- yi: y12
+  int_val: 10
+  binary: 0x001010
+  octal: 0o12
+  wen_num: 40
+  unicode: ䷧
+  lines:  [False, True, False, True, False, False]
+- yi: y13
+  int_val: 11
+  binary: 0x001011
+  octal: 0o13
+  wen_num: 54
+  unicode: ䷵
+  lines:  [True, True, False, True, False, False]
+- yi: y14
+  int_val: 12
+  binary: 0x001100
+  octal: 0o14
+  wen_num: 62
+  unicode: ䷽
+  lines:  [False, False, True, True, False, False]
+- yi: y15
+  int_val: 13
+  binary: 0x001101
+  octal: 0o15
+  wen_num: 55
+  unicode: ䷶
+  lines:  [True, False, True, True, False, False]
+- yi: y16
+  int_val: 14
+  binary: 0x001110
+  octal: 0o16
+  wen_num: 32
+  unicode: ䷟
+  lines:  [False, True, True, True, False, False]
+- yi: y17
+  int_val: 15
+  binary: 0x001111
+  octal: 0o17
+  wen_num: 34
+  unicode: ䷡
+  lines:  [True, True, True, True, False, False]
+- yi: y20
+  int_val: 16
+  binary: 0x010000
+  octal: 0o20
+  wen_num: 8
+  unicode: ䷇
+  lines:  [False, False, False, False, True, False]
+- yi: y21
+  int_val: 17
+  binary: 0x010001
+  octal: 0o21
+  wen_num: 3
+  unicode: ䷂
+  lines:  [True, False, False, False, True, False]
+- yi: y22
+  int_val: 18
+  binary: 0x010010
+  octal: 0o22
+  wen_num: 29
+  unicode: ䷜
+  lines:  [False, True, False, False, True, False]
+- yi: y23
+  int_val: 19
+  binary: 0x010011
+  octal: 0o23
+  wen_num: 60
+  unicode: ䷻
+  lines:  [True, True, False, False, True, False]
+- yi: y24
+  int_val: 20
+  binary: 0x010100
+  octal: 0o24
+  wen_num: 39
+  unicode: ䷦
+  lines:  [False, False, True, False, True, False]
+- yi: y25
+  int_val: 21
+  binary: 0x010101
+  octal: 0o25
+  wen_num: 63
+  unicode: ䷾
+  lines:  [True, False, True, False, True, False]
+- yi: y26
+  int_val: 22
+  binary: 0x010110
+  octal: 0o26
+  wen_num: 48
+  unicode: ䷯
+  lines:  [False, True, True, False, True, False]
+- yi: y27
+  int_val: 23
+  binary: 0x010111
+  octal: 0o27
+  wen_num: 5
+  unicode: ䷄
+  lines:  [True, True, True, False, True, False]
+- yi: y30
+  int_val: 24
+  binary: 0x011000
+  octal: 0o30
+  wen_num: 45
+  unicode: ䷬
+  lines:  [False, False, False, True, True, False]
+- yi: y31
+  int_val: 25
+  binary: 0x011001
+  octal: 0o31
+  wen_num: 17
+  unicode: ䷐
+  lines:  [True, False, False, True, True, False]
+- yi: y32
+  int_val: 26
+  binary: 0x011010
+  octal: 0o32
+  wen_num: 47
+  unicode: ䷮
+  lines:  [False, True, False, True, True, False]
+- yi: y33
+  int_val: 27
+  binary: 0x011011
+  octal: 0o33
+  wen_num: 58
+  unicode: ䷹
+  lines:  [True, True, False, True, True, False]
+- yi: y34
+  int_val: 28
+  binary: 0x011100
+  octal: 0o34
+  wen_num: 31
+  unicode: ䷞
+  lines:  [False, False, True, True, True, False]
+- yi: y35
+  int_val: 29
+  binary: 0x011101
+  octal: 0o35
+  wen_num: 49
+  unicode: ䷰
+  lines:  [True, False, True, True, True, False]
+- yi: y36
+  int_val: 30
+  binary: 0x011110
+  octal: 0o36
+  wen_num: 28
+  unicode: ䷛
+  lines:  [False, True, True, True, True, False]
+- yi: y37
+  int_val: 31
+  binary: 0x011111
+  octal: 0o37
+  wen_num: 43
+  unicode: ䷪
+  lines:  [True, True, True, True, True, False]
+- yi: y40
+  int_val: 32
+  binary: 0x100000
+  octal: 0o40
+  wen_num: 23
+  unicode: ䷖
+  lines:  [False, False, False, False, False, True]
+- yi: y41
+  int_val: 33
+  binary: 0x100001
+  octal: 0o41
+  wen_num: 27
+  unicode: ䷚
+  lines:  [True, False, False, False, False, True]
+- yi: y42
+  int_val: 34
+  binary: 0x100010
+  octal: 0o42
+  wen_num: 4
+  unicode: ䷃
+  lines:  [False, True, False, False, False, True]
+- yi: y43
+  int_val: 35
+  binary: 0x100011
+  octal: 0o43
+  wen_num: 41
+  unicode: ䷨
+  lines:  [True, True, False, False, False, True]
+- yi: y44
+  int_val: 36
+  binary: 0x100100
+  octal: 0o44
+  wen_num: 52
+  unicode: ䷳
+  lines:  [False, False, True, False, False, True]
+- yi: y45
+  int_val: 37
+  binary: 0x100101
+  octal: 0o45
+  wen_num: 22
+  unicode: ䷕
+  lines:  [True, False, True, False, False, True]
+- yi: y46
+  int_val: 38
+  binary: 0x100110
+  octal: 0o46
+  wen_num: 18
+  unicode: ䷑
+  lines:  [False, True, True, False, False, True]
+- yi: y47
+  int_val: 39
+  binary: 0x100111
+  octal: 0o47
+  wen_num: 26
+  unicode: ䷙
+  lines:  [True, True, True, False, False, True]
+- yi: y50
+  int_val: 40
+  binary: 0x101000
+  octal: 0o50
+  wen_num: 35
+  unicode: ䷢
+  lines:  [False, False, False, True, False, True]
+- yi: y51
+  int_val: 41
+  binary: 0x101001
+  octal: 0o51
+  wen_num: 21
+  unicode: ䷔
+  lines:  [True, False, False, True, False, True]
+- yi: y52
+  int_val: 42
+  binary: 0x101010
+  octal: 0o52
+  wen_num: 64
+  unicode: ䷿
+  lines:  [False, True, False, True, False, True]
+- yi: y53
+  int_val: 43
+  binary: 0x101011
+  octal: 0o53
+  wen_num: 38
+  unicode: ䷥
+  lines:  [True, True, False, True, False, True]
+- yi: y54
+  int_val: 44
+  binary: 0x101100
+  octal: 0o54
+  wen_num: 56
+  unicode: ䷷
+  lines:  [False, False, True, True, False, True]
+- yi: y55
+  int_val: 45
+  binary: 0x101101
+  octal: 0o55
+  wen_num: 30
+  unicode: ䷝
+  lines:  [True, False, True, True, False, True]
+- yi: y56
+  int_val: 46
+  binary: 0x101110
+  octal: 0o56
+  wen_num: 50
+  unicode: ䷱
+  lines:  [False, True, True, True, False, True]
+- yi: y57
+  int_val: 47
+  binary: 0x101111
+  octal: 0o57
+  wen_num: 14
+  unicode: ䷍
+  lines:  [True, True, True, True, False, True]
+- yi: y60
+  int_val: 48
+  binary: 0x110000
+  octal: 0o60
+  wen_num: 20
+  unicode: ䷓
+  lines:  [False, False, False, False, True, True]
+- yi: y61
+  int_val: 49
+  binary: 0x110001
+  octal: 0o61
+  wen_num: 42
+  unicode: ䷩
+  lines:  [True, False, False, False, True, True]
+- yi: y62
+  int_val: 50
+  binary: 0x110010
+  octal: 0o62
+  wen_num: 59
+  unicode: ䷺
+  lines:  [False, True, False, False, True, True]
+- yi: y63
+  int_val: 51
+  binary: 0x110011
+  octal: 0o63
+  wen_num: 61
+  unicode: ䷼
+  lines:  [True, True, False, False, True, True]
+- yi: y64
+  int_val: 52
+  binary: 0x110100
+  octal: 0o64
+  wen_num: 53
+  unicode: ䷴
+  lines:  [False, False, True, False, True, True]
+- yi: y65
+  int_val: 53
+  binary: 0x110101
+  octal: 0o65
+  wen_num: 37
+  unicode: ䷤
+  lines:  [True, False, True, False, True, True]
+- yi: y66
+  int_val: 54
+  binary: 0x110110
+  octal: 0o66
+  wen_num: 57
+  unicode: ䷸
+  lines:  [False, True, True, False, True, True]
+- yi: y67
+  int_val: 55
+  binary: 0x110111
+  octal: 0o67
+  wen_num: 9
+  unicode: ䷈
+  lines:  [True, True, True, False, True, True]
+- yi: y70
+  int_val: 56
+  binary: 0x111000
+  octal: 0o70
+  wen_num: 12
+  unicode: ䷋
+  lines:  [False, False, False, True, True, True]
+- yi: y71
+  int_val: 57
+  binary: 0x111001
+  octal: 0o71
+  wen_num: 25
+  unicode: ䷘
+  lines:  [True, False, False, True, True, True]
+- yi: y72
+  int_val: 58
+  binary: 0x111010
+  octal: 0o72
+  wen_num: 6
+  unicode: ䷅
+  lines:  [False, True, False, True, True, True]
+- yi: y73
+  int_val: 59
+  binary: 0x111011
+  octal: 0o73
+  wen_num: 10
+  unicode: ䷉
+  lines:  [True, True, False, True, True, True]
+- yi: y74
+  int_val: 60
+  binary: 0x111100
+  octal: 0o74
+  wen_num: 33
+  unicode: ䷠
+  lines:  [False, False, True, True, True, True]
+- yi: y75
+  int_val: 61
+  binary: 0x111101
+  octal: 0o75
+  wen_num: 13
+  unicode: ䷌
+  lines:  [True, False, True, True, True, True]
+- yi: y76
+  int_val: 62
+  binary: 0x111110
+  octal: 0o76
+  wen_num: 44
+  unicode: ䷫
+  lines:  [False, True, True, True, True, True]
+- yi: y77
+  int_val: 63
+  binary: 0x111111
+  octal: 0o77
+  wen_num: 1
+  unicode: ䷀
+  lines:  [True, True, True, True, True, True]

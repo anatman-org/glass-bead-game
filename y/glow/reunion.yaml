@@ -1,0 +1,40 @@
+name: reunion
+description: >
+  A ripple that begins in greeting,
+  echoes through symmetry,
+  and ends in a shared breath.
+
+sequences:
+  - device: aria-lamp:0 
+    sequence:
+    - pulse: 0.5
+    - rest: 0.3
+    - pulse: 0.5
+    - rest: 0.3
+    - repeat:
+        times: 30
+        steps:
+          - pulse: 0.2
+          - rest: 0.2
+    - silence: 1.5
+    - pulse: 0.9
+    - rest: 0.6
+    - pulse: 0.9
+    - silence: 2.0
+  - device: desk-lamp
+    sequence:
+    - rest: 0.3
+    - pulse: 0.5
+    - rest: 0.3
+    - pulse: 0.5
+    - rest: 0.3
+    - repeat:
+        times: 30
+        steps:
+          - pulse: 0.2
+          - rest: 0.2
+    - silence: 1.5
+    - pulse: 0.9
+    - rest: 0.6
+    - pulse: 0.9
+    - silence: 2.0
