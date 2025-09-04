@@ -1,11 +1,12 @@
 #!/bin/sh
 
+if [ -f ./.env ]; then
+  source ./.env
+fi
+
 YT_DLP_FMT="bestvideo[vcodec^=avc]+bestaudio[ext=m4a]/best[ext=mp4]/best"
 YT_DLP_OUT="${QDIR}/%(webpage_url_domain)s/%(id)s=%(title)s.%(ext)s"
 
-if [ -f ./env ]; then
-  source ./env
-fi
 
 #  --restrict-filenames \
 #  --replace-in-metadata filename '[^a-zA-Z0-9-]+' '_' \
@@ -18,7 +19,7 @@ fi
 #  --parse-metadata "%(average_rating)s:%(meta_rating)s" \
 #  --parse-metadata "%(release_date>%Y-%m-%d,upload_date>%Y-%m-%d)s:%(meta_publish_date)s" \
 
-yt-dlp \
+exec yt-dlp \
   --cookies-from-browser "${YT_DLP_COOKIES}" \
   --add-metadata \
   --sub-lang en \
